@@ -3,7 +3,6 @@
 1. Stock Prediction with LSTM
 Description:
 Predict stock prices using Long Short-Term Memory (LSTM) neural networks. This project leverages historical stock price data to train an LSTM model implemented in Jupyter notebook. Explore the world of time series prediction and enhance your understanding of deep learning techniques applied to financial data.
-
 Features:
 LSTM model implementation for stock price prediction.
 Jupyter notebook code for easy experimentation and understanding.
@@ -17,10 +16,11 @@ Usage:
 Clone the repository.
 Install the required dependencies.
 Open the Jupyter notebook and run the code cells.
+
+
 2. Titanic Classification System
 Description:
 Build a classification system to predict survival on the Titanic based on various factors such as socio-economic status, age, and gender. This project uses machine learning algorithms to analyze the Titanic dataset and identify the key features influencing survival. The goal is to gain insights into the factors that contributed to passenger survival.
-
 Features:
 Binary classification for survival prediction.
 Analysis of socio-economic status, age, gender, and more.
